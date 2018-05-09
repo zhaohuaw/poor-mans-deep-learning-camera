@@ -2,6 +2,8 @@
 
 Build a thin client deep learning camera in Python with the Raspberry Pi, Flask, and YOLO
 
+博客地址：http://www.freebuf.com/geek/158084.html
+
 ![Deep Learning Camera](https://github.com/burningion/poor-mans-deep-learning-camera/raw/master/images/deep-learning-camera.jpg)
 
 ## Installation
